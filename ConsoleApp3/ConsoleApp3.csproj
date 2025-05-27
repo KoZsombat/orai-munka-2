@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Eredmeny.cs" />
+    <Compile Include="Futas.cs" />
+    <Compile Include="Kerekpar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Uszas.cs" />
+    <Compile Include="Verseny.cs" />
+    <Compile Include="VersenyMenet.cs" />
+    <Compile Include="Versenyzo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
